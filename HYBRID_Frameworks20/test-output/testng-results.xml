@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-22T17:16:00 IST" name="Default suite" finished-at="2024-05-22T17:16:08 IST" duration-ms="7759">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T17:16:00 IST" name="Default test" finished-at="2024-05-22T17:16:08 IST" duration-ms="7759">
+      <class name="com.orange.TestCase.TestCase">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.orange.TestCase.TestCase@1e04fa0a]" started-at="2024-05-22T17:16:00 IST" name="login" finished-at="2024-05-22T17:16:08 IST" duration-ms="7695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="open()[pri:0, instance:com.orange.TestCase.TestCase@1e04fa0a]" started-at="2024-05-22T17:16:08 IST" name="open" finished-at="2024-05-22T17:16:08 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- com.orange.TestCase.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
